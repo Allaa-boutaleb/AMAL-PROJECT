@@ -15,11 +15,9 @@ This repository is dedicated to the exploration and implementation of the ground
 **Contact:** [Alexandru Meterez](mailto:alexandrumeterez@gmail.com)
 
 ### Contributors to This Repository
-- Allaa BOUTALEB
-- Samy NEHLIL
-- Ghiles OUHENIA
+- Allaa BOUTALEB, Samy NEHLIL, Ghiles OUHENIA
 
-**Disclaimer:** The work in this repository is based on the original paper by the authors listed above. The contributors have studied the paper, reproduced the results, refactored the code, and created a poster summarizing the research. All intellectual property rights belong to the original authors.
+**Disclaimer:** The work in this repository is based on the original paper by the authors listed above. We have simply studied the paper, reproduced the results, refactored the code, and created a poster summarizing the research. All intellectual property rights belong to the original authors.
 
 ## Repository Structure
 
