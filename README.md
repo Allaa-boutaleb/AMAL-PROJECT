@@ -1,5 +1,10 @@
 # Towards Training Without Depth Limits: Large Batch Normalization Without Gradient Explosion
 
+![AMAL_PROJECT](https://github.com/Allaa-boutaleb/Infinitely-Deep-MLPs/assets/60470207/580961d6-3446-4c98-a262-daf93b0d4cfa)
+
+Link to poster: [AMAL_PROJECT.pdf](https://github.com/Allaa-boutaleb/Infinitely-Deep-MLPs/files/14315814/AMAL_PROJECT.pdf)
+
+
 ## Introduction
 
 This repository is dedicated to the exploration and implementation of the groundbreaking research introduced in the paper titled "Towards Training Without Depth Limits: Large Batch Normalization Without Gradient Explosion". This study represents a significant advancement in the field of deep learning, focusing on overcoming the challenges associated with depth limits in neural network training through innovative batch normalization techniques.
