@@ -2,7 +2,8 @@
 
 ![AMAL_PROJECT](https://github.com/Allaa-boutaleb/Infinitely-Deep-MLPs/assets/60470207/580961d6-3446-4c98-a262-daf93b0d4cfa)
 
-Link to poster: [AMAL_PROJECT.pdf](https://github.com/Allaa-boutaleb/Infinitely-Deep-MLPs/files/14315814/AMAL_PROJECT.pdf)
+Link to poster: [POSTER.pdf](https://github.com/Allaa-boutaleb/Infinitely-Deep-MLPs/files/14315821/AMAL_PROJECT.pdf)
+
 
 
 ## Introduction
